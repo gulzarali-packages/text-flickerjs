@@ -1,0 +1,22 @@
+{
+  "name": "text-flickerjs",
+  "version": "1.0.0",
+  "description": "Javascript package to add load more and load less functionality to your text elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulzarali-packages/text-flickerjs.git"
+  },
+  "keywords": [
+    "text-flickerjs"
+  ],
+  "author": "Gulzar Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gulzarali-packages/text-flickerjs/issues"
+  },
+  "homepage": "https://github.com/gulzarali-packages/text-flickerjs#readme"
+}
